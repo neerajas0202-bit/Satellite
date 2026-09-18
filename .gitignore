@@ -9,4 +9,6 @@ venv/
 node_modules/
 dist/
 build/
-.vscode/
+.vscode/backend/uploads/
+backend/satquery.db
+*.zip
